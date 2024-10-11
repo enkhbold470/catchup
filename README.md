@@ -1,6 +1,7 @@
 # Catchup!
 
 A brief description of what this project does and who it's for.
+<img width="1498" alt="image" src="https://github.com/user-attachments/assets/e5973d6d-c019-4786-bbdb-d12dab8d812c">
 
 ## Introduction
 
